@@ -1,12 +1,14 @@
+<div style="max-width: 650px; margin: 0 auto;">
+
 <div align="center">
 
-### ✨ Hi there! ✨
+## ✨ Hi there! ✨
 
 I make stuff you probably don't care about but I'd appreciate if you did
 
 </div>
 
-## 🌟 Stuff I'm Proud Of
+### 🌟 Stuff I'm Proud Of
 
 - [**🌿 Podzol**](https://github.com/morr0ne/podzol) - A very cool package
   manager for making Minecraft modpacks without going _completely_ insane.
@@ -20,16 +22,15 @@ I make stuff you probably don't care about but I'd appreciate if you did
   wink\*_
 
 - [**🍞 Bread**](https://github.com/bread-bootloader/bread) - An attempt at a
-  UEFI bootloader that doesn't suck.\
-  Can't guarantee it won't toast your system
+  UEFI bootloader that doesn't suck. Can't guarantee it won't toast your system
 
-## 🌈 Silly Things
+### 🌈 Silly Things
 
 - [**📸 Boop**](https://github.com/morr0ne/boop) - A lossless image format
   that's way too good considering how simple it is.
 
 - [**🧸 plushie**](https://github.com/plushie-lang/plushie) - A very cutesy
-  programming language you probably shouldn't use.\
+  programming language you probably shouldn't use.
 
 - [**🎂 Cake**](https://github.com/morr0ne/cake) - Portal credits in your
   browser! _(Valve please don't sue me :3)_
@@ -45,5 +46,7 @@ _This blåhaj has spun approximately 127,394 times since you started reading_
 ---
 
 <sub>🏳️‍⚧️ Made with sillyness and monster 🏳️‍⚧️</sub>
+
+</div>
 
 </div>
